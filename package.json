@@ -1,0 +1,15 @@
+{
+  "name": "Emote",
+  "version": "0.1.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^5.0.6",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "electron-packager": "^14.0.1"
+  }
+}
